@@ -25,8 +25,15 @@ Now what you need to do is
 
 <img src="5.png" width="600"/>
 
-3.
+3. Click "***Protect history***".
 
 <img src="6.png" width="600"/>
 
+4. Click the latest report.
+
 <img src="7.png" width="600"/>
+
+5. Click on the ***Actions -> Allow*** and make sure the reported file name is correct.
+
+<img src="8.png" width="600"/>
+
