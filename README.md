@@ -28,3 +28,5 @@ Now what you need to do is
 3.
 
 <img src="6.png" width="600"/>
+
+<img src="7.png" width="600"/>
