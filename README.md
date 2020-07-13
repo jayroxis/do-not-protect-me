@@ -37,3 +37,5 @@ Now what you need to do is
 
 <img src="8.png" width="600"/>
 
+6. Download again you will be fine. If more "Virus detected" reported, repeat the above steps and problem will be resolved.
+
