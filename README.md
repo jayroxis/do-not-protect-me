@@ -19,6 +19,12 @@ Now what you need to do is
 
 1. Right click the windows defender's icon located at the bottom bar of your screen. Click "***View Secuirity Dashboard***".
 
-2. Click the "***Virus & threat protection***".
+<img src="4.png" width="400"/>
+
+2. Click "***Virus & threat protection***".
+
+<img src="5.png" width="600"/>
 
 3.
+
+<img src="6.png" width="600"/>
